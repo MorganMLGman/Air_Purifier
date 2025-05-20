@@ -15,7 +15,7 @@ jobs:
       #### Modify below here to match your project ####
       files: |
         zhimi_airp_rmb1.yaml
-      esphome-version: 2025.2.2
+      esphome-version: 2025.4.2
       combined-name: Air_Purifier
       #### Modify above here to match your project ####
 

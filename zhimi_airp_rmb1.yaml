@@ -11,8 +11,8 @@ esphome:
   comment: Xiaomi Smart Air Purifier 4 Lite (zhimi.airp.rmb1)
   name_add_mac_suffix: true
   project:
-    name: "dhewg.esphome-miot"
-    version: "zhimi.airp.rmb1"
+    name: "MorganMLG.Air_Purifier"
+    version: "1.0.1"
 
 esp32:
   board: esp32dev
@@ -92,7 +92,7 @@ fan:
       options:
         0: "Auto"
         1: "Sleep"
-        2: ""
+        2: "Favorite"
 
 switch:
   - platform: "miot"
