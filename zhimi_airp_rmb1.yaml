@@ -62,6 +62,8 @@ update:
 wifi:
   ap:
     password: ${ap_password}
+  enable_btm: true
+  enable_rrm: true
 
 captive_portal:
 
